@@ -1,0 +1,12 @@
+{
+	"shadow-card": {
+		"shadowColor": "#000000",
+		"shadowOffset": {
+			"width": 0,
+			"height": 5
+		},
+		"shadowOpacity": 0.025,
+		"shadowRadius": 0.50,
+		"elevation": 5
+	}
+}

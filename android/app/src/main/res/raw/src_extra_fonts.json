@@ -1,0 +1,53 @@
+{
+	"font-poppins": {
+		"fontFamily": "Poppins-Regular"
+	},
+	"font-poppins-100": {
+        "fontFamily": "Poppins-Thin"
+    },
+    "font-poppins-200": {
+        "fontFamily": "Poppins-ExtraLight"
+    },
+    "font-poppins-300": {
+        "fontFamily": "Poppins-Light"
+    },
+    "font-poppins-400": {
+        "fontFamily": "Poppins-Regular"
+    },
+    "font-poppins-500": {
+        "fontFamily": "Poppins-Medium"
+    },
+    "font-poppins-600": {
+        "fontFamily": "Poppins-SemiBold"
+    },
+    "font-poppins-700": {
+        "fontFamily": "Poppins-Bold"
+    },
+    "font-poppins-800": {
+        "fontFamily": "Poppins-ExtraBold"
+    },
+    "font-roboto-100": {
+        "fontFamily": "Roboto-Thin"
+    },
+    "font-roboto-200": {
+        "fontFamily": "Roboto-ExtraLight"
+    },
+    "font-roboto-300": {
+        "fontFamily": "Roboto-Light"
+    },
+    "font-roboto-400": {
+        "fontFamily": "Roboto-Regular"
+    },
+    "font-roboto-500": {
+        "fontFamily": "Roboto-Medium"
+    },
+    "font-roboto-600": {
+        "fontFamily": "Roboto-SemiBold"
+    },
+    "font-roboto-700": {
+        "fontFamily": "Roboto-Bold"
+    },
+    "font-roboto-800": {
+        "fontFamily": "Roboto-ExtraBold"
+    }
+}

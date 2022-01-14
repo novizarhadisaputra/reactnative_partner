@@ -1,0 +1,98 @@
+{
+	"project_info": {
+	  "project_number": "906939148059",
+	  "project_id": "signteraktif-d9bd9",
+	  "storage_bucket": "signteraktif-d9bd9.appspot.com"
+	},
+	"client": [
+	  {
+		"client_info": {
+		  "mobilesdk_app_id": "1:906939148059:android:4358bf503c000d449115be",
+		  "android_client_info": {
+			"package_name": "com.signteraktif"
+		  }
+		},
+		"oauth_client": [
+		  {
+			"client_id": "906939148059-ddao192eophtmpiv8hslpill86ok52l1.apps.googleusercontent.com",
+			"client_type": 1,
+			"android_info": {
+			  "package_name": "com.signteraktif",
+			  "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+			}
+		  },
+		  {
+			"client_id": "906939148059-8m2iuvehp95orbba33ed9ktv8nrj7q21.apps.googleusercontent.com",
+			"client_type": 3
+		  }
+		],
+		"api_key": [
+		  {
+			"current_key": "AIzaSyARurilB21smIRcdB5zeuRSYwcWyi-Gazw"
+		  }
+		],
+		"services": {
+		  "appinvite_service": {
+			"other_platform_oauth_client": [
+			  {
+				"client_id": "906939148059-8m2iuvehp95orbba33ed9ktv8nrj7q21.apps.googleusercontent.com",
+				"client_type": 3
+			  },
+			  {
+				"client_id": "906939148059-tl4s0d7t4cmki4nhmbsmul6r2385ttb9.apps.googleusercontent.com",
+				"client_type": 2,
+				"ios_info": {
+				  "bundle_id": "com.signteraktif"
+				}
+			  }
+			]
+		  }
+		}
+	  },
+	  {
+		"client_info": {
+		  "mobilesdk_app_id": "1:906939148059:android:d911241fd0950a029115be",
+		  "android_client_info": {
+			"package_name": "com.signteraktifpartner"
+		  }
+		},
+		"oauth_client": [
+		  {
+			"client_id": "906939148059-v4kr5b0r4dbj8v8s3iovchcl1nundrfh.apps.googleusercontent.com",
+			"client_type": 1,
+			"android_info": {
+			  "package_name": "com.signteraktifpartner",
+			  "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+			}
+		  },
+		  {
+			"client_id": "906939148059-8m2iuvehp95orbba33ed9ktv8nrj7q21.apps.googleusercontent.com",
+			"client_type": 3
+		  }
+		],
+		"api_key": [
+		  {
+			"current_key": "AIzaSyARurilB21smIRcdB5zeuRSYwcWyi-Gazw"
+		  }
+		],
+		"services": {
+		  "appinvite_service": {
+			"other_platform_oauth_client": [
+			  {
+				"client_id": "906939148059-8m2iuvehp95orbba33ed9ktv8nrj7q21.apps.googleusercontent.com",
+				"client_type": 3
+			  },
+			  {
+				"client_id": "906939148059-tl4s0d7t4cmki4nhmbsmul6r2385ttb9.apps.googleusercontent.com",
+				"client_type": 2,
+				"ios_info": {
+				  "bundle_id": "com.signteraktif"
+				}
+			  }
+			]
+		  }
+		}
+	  }
+	],
+	"configuration_version": "1"
+  }

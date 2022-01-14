@@ -1,0 +1,23 @@
+{
+    "color-on-going": {
+        "color": "#FB8500"
+    },
+    "color-border-gray": {
+        "borderColor": "#C7C8CD"
+    },
+    "border-green-custom": {
+        "borderColor": "#5CC586"
+    },
+    "color-green-custom": {
+        "color": "#5CC586"
+    },
+    "color-line-border": {
+        "borderColor": "#E5E5E5"
+    },
+    "bg-detail-partner": {
+        "backgroundColor": "#F7F7F7"
+    },
+    "bg-on-going": {
+        "backgroundColor": "#EFE6DC"
+    }
+}

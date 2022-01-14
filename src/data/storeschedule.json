@@ -1,0 +1,23 @@
+{
+	"_token": "7ndtAd01puAIeSSUIHhD9zKWExgiIAgG26kjYbpb",
+	"start": "2021-12-10",
+	"end": "2021-12-31",
+	"user_id": "3",
+	"days": [ "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" ],
+	"start-Sunday": [ "13:00" ],
+	"end-Sunday": [ "14:00" ],
+	"start-Monday": [ "13:00" ],
+	"end-Monday": [ "14:00" ],
+	"start-Tuesday": [ "13:00" ],
+	"end-Tuesday": [ "14:00" ],
+	"start-Wednesday": [ "13:00" ],
+	"end-Wednesday": [ "14:00" ],
+	"start-Thursday": [ "13:00" ],
+	"end-Thursday": [ "14:00" ],
+	"start-Friday": [ "13:00" ],
+	"end-Friday": [ "14:00" ],
+	"start-Saturday": [ "13:00" ],
+	"end-Saturday": [ "14:00" ],
+	"startHour": "13:00",
+	"endHour": "14:00"
+}
